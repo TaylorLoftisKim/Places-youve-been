@@ -1,0 +1,16 @@
+body {
+  background-color: grey;
+}
+
+#show-location {
+  display: none;
+}
+
+.location {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.location:hover {
+  text-decoration: underline;
+}
